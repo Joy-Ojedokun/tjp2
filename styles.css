@@ -1,6 +1,9 @@
-button {
-    background-color: blue;
-    font-size: large;
+.button {
+    color: blue;
+    background-color: white;
+    width: 70px;
+    border-radius: 20px;
+    padding: 10px 15px;
 }
 
 .passion {
@@ -10,4 +13,13 @@ button {
 img {
     width: 100%;
     max-width: 300px;
+}
+
+body {
+    background-color: blue;
+    color: white;
+}
+
+.mail {
+    margin-bottom: 50px;
 }
